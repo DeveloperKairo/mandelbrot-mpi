@@ -1,0 +1,22 @@
+/openmpi-5.0.7
+/openmpi-5.0.7-src
+# Backup files
+*.bak
+*.save
+*.save.*
+*~
+
+# Old or experimental versions
+mandelbrot.backup
+mandelbrot.cpp.pre_progressive
+
+# Compiled executables
+mandelbrot
+teste_mpi
+teste_mpi_ok
+
+# Temporary files
+*.o
+*.out
+*.log
+
