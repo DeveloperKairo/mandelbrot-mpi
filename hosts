@@ -1,3 +1,3 @@
 localhost slots=1
-192.168.122.6 slots=1
-192.168.122.20 slots=1
+pc01 slots=1
+pc02 slots=1
